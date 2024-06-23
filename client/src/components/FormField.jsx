@@ -1,4 +1,4 @@
-import React from 'react';
+import PropTypes from "prop-types";
 
 const FormField = ({
   labelName,
@@ -12,10 +12,7 @@ const FormField = ({
 }) => (
   <div>
     <div className="flex items-center gap-2 mb-2">
-      <label
-        htmlFor={name}
-        className="block text-sm font-medium text-gray-900"
-      >
+      <label htmlFor={name} className="block text-sm font-medium text-gray-900">
         {labelName}
       </label>
       {isSurpriseMe && (
@@ -40,5 +37,16 @@ const FormField = ({
     />
   </div>
 );
+
+FormField.propTypes = {
+  labelName: PropTypes.string,
+  type: PropTypes.string,
+  name: PropTypes.string,
+  placeholder: PropTypes.string,
+  value: PropTypes.string,
+  handleChange: PropTypes.func,
+  isSurpriseMe: PropTypes.bool,
+  handleSurpriseMe: PropTypes.func,
+};
 
 export default FormField;
