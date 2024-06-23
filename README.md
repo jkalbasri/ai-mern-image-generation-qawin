@@ -18,17 +18,10 @@ This MERN-stack web application empowers users to generate AI-powered images fro
 
 ## Demo
 
-https://##
+![Demo] (www.al.dk)
 
 ## 📸 Screenshots
-* Home Page
-
 ![Home Page](jpg)
-
-* Community Showcase
-
-![Community Showcase](.jpg)
-
 
 ## Tech Stack
 The AI Image Generator Web App is built using the following technologies:
