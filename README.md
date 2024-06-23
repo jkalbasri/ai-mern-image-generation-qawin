@@ -16,8 +16,21 @@ This MERN-stack web application empowers users to generate AI-powered images fro
 * The hover effects display a user's prompt, their username, and a download button when activated.
 * Provide a sharing feature that allows users to share the AI-generated images with the community on the designated community section of the platform.
 
-## Tech Stack
+## Demo
 
+https://##
+
+## 📸 Screenshots
+* Home Page
+
+![Home Page](jpg)
+
+* Community Showcase
+
+![Community Showcase](.jpg)
+
+
+## Tech Stack
 The AI Image Generator Web App is built using the following technologies:
 
 - MERN Stack (MongoDB, Express.js, React.js, Node.js): A powerful and popular combination of technologies for building web applications.
