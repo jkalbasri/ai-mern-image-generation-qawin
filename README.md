@@ -1,10 +1,12 @@
 #  AI Image Generation with DALL-E API and MERN Stack
 
-The field of AI image generation has seen rapid and exciting advancements in recent years. Developments in machine learning, particularly in generative models powered by deep learning techniques, have enabled the creation of AI models capable of generating highly realistic images that are nearly indistinguishable from real ones. These AI image generation models hold immense potential for applications across diverse domains, including entertainment, design, and advertising.
+The field of AI image generation has seen rapid and exciting advancements in recent years. Developments in machine learning, particularly in generative models powered by deep learning techniques, have enabled the creation of AI models capable of generating highly realistic images that are nearly indistinguishable from real ones. 
 
 This project was inspired by a powerful AI image generation model: `OpenAI's DALL-E`
 
 This MERN-stack web application empowers users to generate AI-powered images from their text prompts using OpenAI's DALL-E API. Its modern, minimalist design features dynamic layouts, hover effects, and community-sharing options.
+
+<pic>
 
 ## ❇️ Features added :
 
