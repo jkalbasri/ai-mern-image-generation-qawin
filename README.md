@@ -13,9 +13,10 @@ This MERN-stack web application empowers users to generate AI-powered images fro
   </picture>
 </a>
 
-## Demo
-
-![Demo] (https://master--aa-image-generation-ai.netlify.app/)
+### Demo - Deployed over Netlify
+<a href="https://master--aa-image-generation-ai.netlify.app" target="blank" align="center"> 
+Live Preview 🌐
+</a>
 
 ## ❇️ Features added :
 
