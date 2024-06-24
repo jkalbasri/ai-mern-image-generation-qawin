@@ -1,10 +1,7 @@
 #  AI Image Generation with DALL-E API and MERN Stack
 
-The field of AI image generation has seen rapid and exciting advancements in recent years. Developments in machine learning, particularly in generative models powered by deep learning techniques, have enabled the creation of AI models capable of generating highly realistic images that are nearly indistinguishable from real ones. 
-
 This project was inspired by a powerful AI image generation model: `OpenAI's DALL-E`
-
-This MERN-stack web application empowers users to generate AI-powered images from their text prompts using OpenAI's DALL-E API. Its modern, minimalist design features dynamic layouts, hover effects, and community-sharing options.
+MERN-stack web application empowers users to generate AI-powered images from their text prompts using OpenAI's DALL-E API. Its modern, minimalist design features dynamic layouts, hover effects, and community-sharing options.
 
 <a href="https://master--aa-image-generation-ai.netlify.app/" target="blank" align="center">
   <picture>
