@@ -3,16 +3,17 @@
 This project was inspired by a powerful AI image generation model: `OpenAI's DALL-E`
 MERN-stack web application empowers users to generate AI-powered images from their text prompts using OpenAI's DALL-E API. Its modern, minimalist design features dynamic layouts, hover effects, and community-sharing options.
 
+### Demo - Deployed over Netlify
+<a href="https://master--aa-image-generation-ai.netlify.app" target="blank" align="center"> 
+Live Preview 🌐
+</a>
+
+
 <a href="https://master--aa-image-generation-ai.netlify.app/" target="blank" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="home.png">
     <img alt="READMEs Screenshot" src="home.png">
   </picture>
-</a>
-
-### Demo - Deployed over Netlify
-<a href="https://master--aa-image-generation-ai.netlify.app" target="blank" align="center"> 
-Live Preview 🌐
 </a>
 
 ## ❇️ Features added :
