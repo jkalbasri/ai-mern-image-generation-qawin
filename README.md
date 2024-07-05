@@ -3,9 +3,9 @@
 This project was inspired by a powerful AI image generation model: `OpenAI's DALL-E`
 MERN-stack web application empowers users to generate AI-powered images from their text prompts using OpenAI's DALL-E API. Its modern, minimalist design features dynamic layouts, hover effects, and community-sharing options.
 
-## 🌐 <a href="https://frontend-ai-image-generator-app.vercel.app/" target="blank" align="center"> Live Preview </a>
+## 🌐 <a href="https://frontend-ai-image-generator-app-qawin.vercel.app/" target="blank" align="center"> Live Preview </a>
 
-<a href="https://frontend-ai-image-generator-app.vercel.app/" target="blank" align="center">
+<a href="https://frontend-ai-image-generator-app-qawin.vercel.app/" target="blank" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="home.png">
     <img alt="READMEs Screenshot" src="home.png">
